@@ -1,1 +1,37 @@
-Hello Git and Github
+<resources>
+    <string name="orders_ui_home_ongoing_orders_title">Let\'s order Gojek!</string>
+    <string name="orders_ui_home_history_title">Haven\'t tried Gojek?</string>
+    <string name="orders_ui_home_ongoing_orders_body">Our drivers will be very happy to help you.</string>
+    <string name="orders_ui_home_history_body">Our drivers will be happy to help you. Let\'s make your first order!</string>
+    <string name="orders_ui_home_ongoing_orders_header">Ongoing orders</string>
+    <string name="orders_ui_home_history_header">History</string>
+    <string name="orders_ui_home_server_error_title">"OMG.. Server busy"</string>
+    <string name="orders_ui_home_server_error_body">"No worries. Try again later, we're already on it."</string>
+    <string name="orders_ui_home_network_error_title">"You seem to be offline"</string>
+    <string name="orders_ui_home_network_error_body">"Check your wi-fi connection or cellular data and try again."</string>
+    <string name="orders_ui_home_settings">"SETTINGS"</string>
+    <string name="orders_ui_home_call">"Call"</string>
+    <string name="orders_ui_orders_view">"View"</string>
+    <string name="orders_ui_home_chat">"Chat"</string>
+    <string name="orders_ui_home_sms">"SMS"</string>
+    <string name="orders_ui_home_chat_is_unavailable">Chat is unavailable at the moment</string>
+    <string name="orders_ui_home_chat_is_unavailable_body">Would you like to send an SMS to your driver instead?</string>
+    <string name="orders_ui_home_send_sms">Send SMS</string>
+    <string name="orders_ui_home_later">Maybe later</string>
+    <string name="orders_ui_button_edit">EDIT</string>
+    <string name="orders_ui_home_tab_orders">Orders</string>
+    <string name="orders_ui_home_history_date_pattern_today">"\'Today\'"</string>
+    <string name="orders_ui_order_done">Done</string>
+    <string name="orders_ui_orders_call">Call resto</string>
+    <string name="orders_ui_orders_track_title">Track your order</string>
+    <string name="orders_ui_orders_rating_title">Stars for your orders, please</string>
+    <string name="orders_ui_orders_retry">Retry</string>
+    <string name="orders_ui_orders_error_title">Something went wrong</string>
+    <string name="orders_ui_orders_error_description">Unable to load your ongoing order.\nPlease try again</string>
+    <string name="orders_ui_orders_eta_less_than_a_min">± 1 min</string>
+    <string name="orders_ui_orders_eta_minutes">± %s min</string>
+    <string name="orders_ui_orders_eta_one_hour">± 1 hr</string>
+    <string name="orders_ui_orders_eta_two_hours">± 2 hr</string>
+    <string name="orders_ui_orders_time_field_yesterday">Yesterday</string>
+    <string name="orders_ui_orders_eta_more_than_two_hours"><![CDATA[> 2 hr]]></string>
+</resources>
